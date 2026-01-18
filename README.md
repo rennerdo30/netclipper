@@ -1,5 +1,7 @@
 # netclipper
 
+> NOTE: This project is archived. A completely new implementation of the same idea is available at https://github.com/rennerdo30/toss-share (rennerdo30/toss-share). Please see that repository instead.
+
 netclipper is a application written in java, to share your clipboard across your local network.
 This project is more or less for a specific use-case. 
 The code is pretty rough at many edges, especially the file transfer!
